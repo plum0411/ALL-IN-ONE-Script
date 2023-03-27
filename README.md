@@ -1,4 +1,4 @@
-開啟ubuntu終端機輸入
+開啟Linux終端機輸入
 ```
 ./all-in-one-script.sh
 ```
